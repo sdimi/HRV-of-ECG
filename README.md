@@ -3,7 +3,7 @@ Unevenly spaced signals are met commonly in car industry, communications, medici
 is usually unevenly sampled. Heart-rate variability (HRV) signals, which represent the physiological 
 variation in time between heartbeats, are typically unevenly sampled because human heart rates are not constant.
 
-#####Depedencies
+#####Dependencies
 * Matlab
 * Signal Processing Toolbox
 
